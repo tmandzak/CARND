@@ -1,0 +1,9 @@
+data
+models
+.ipynb_checkpoints
+bottlenecks
+*.zip
+__pycache__
+*.npy
+*.p
+.vscode
